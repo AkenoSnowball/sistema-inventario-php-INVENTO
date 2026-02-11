@@ -31,4 +31,4 @@ Desarrollado como proyecto formativo para el programa **Técnico en Programació
     * Abre tu navegador y dirígete a `http://localhost/inventario`.
 
 ## 👤 Autor
-* **Tu Nombre** - [Tu GitHub](https://github.com/TU_USUARIO)
+* **J.P. ospina C.** - [AkenoSnowball](https://github.com)
